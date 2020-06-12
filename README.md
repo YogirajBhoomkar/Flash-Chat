@@ -12,7 +12,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## What you will learn
+## What I learnt
 
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
